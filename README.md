@@ -65,6 +65,7 @@ or:
 Mo, S., Zhu, Y., Zabaras, N., Shi, X., & Wu, J. (2018). Deep convolutional encoder-decoder networks for 
 uncertainty quantification of dynamic multiphase flow in heterogeneous media. arXiv preprint arXiv:1807.00882.
 ```
+Related article: [Zhu, Yinhao, and Nicholas Zabaras. "Bayesian deep convolutional encoder–decoder networks for surrogate modeling and uncertainty quantification." Journal of Computational Physics 366 (2018): 415-447.](https://www.sciencedirect.com/science/article/pii/S0021999118302341)
 
 # Questions
 Contact Shaoxing Mo (smo@smail.nju.edu.cn) or Nicholas Zabaras (nzabaras@gmail.com) with questions or comments.
