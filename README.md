@@ -14,5 +14,20 @@ To improve the approximation accuracy for the irregular discontinuous saturation
 Left: Discontinuous saturation field. Right: The corrresponding binarized image.
 
 # Dependencies
-* Item 1
-* Item 2
+* python 3 or 2
+* PyTorch 0.4
+* h5py
+* matplotlib
+* seaborn
+
+# Datasets
+The datasets used have been uploaded to Google Drive and can be downloaded using this link [https://drive.google.com/drive/folders/1keg9HwP3bs9JUCyqYflKNwIHwep2CD6r?usp=sharing](https://drive.google.com/drive/folders/1keg9HwP3bs9JUCyqYflKNwIHwep2CD6r?usp=sharing)
+
+
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
