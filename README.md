@@ -9,7 +9,7 @@ PyTorch implementation of deep convolutional nueral networks for dynamical multi
 The first column is the forward model predictions for the pressure (left) and discontinuous saturation (right) fields at t=100, 150, and 200 days. The second and third columns are the network predictions and predicted errors, respectively.
 
 # Two-Stage Network Training Combining Regression and Segmentation Losses
-To improve the approximation accuracy for the irregular discontinuous saturation front, we binarize (0 or 1) the saturation field and the resulting image is added as an additional output channel to the network. An binary cross entropy (BCE) loss is used for the the two-class segmentation task ([CNN-MSE-BCE loss](https://github.com/njujinchun/dcedn-gcs/tree/master/CNN-MSE-BCE%20loss)). The network with a MSE loss ([CNN-MSE loss](https://github.com/njujinchun/dcedn-gcs/tree/master/CNN-MSE%20loss)) solely is also provided for comparison.
+To improve the approximation accuracy for the irregular discontinuous saturation front, we binarize (0 or 1) the saturation field and the resulting image is added as an additional output channel to the network. A binary cross entropy (BCE) loss is used for the the two-class segmentation task ([CNN-MSE-BCE loss](https://github.com/njujinchun/dcedn-gcs/tree/master/CNN-MSE-BCE%20loss)). The network with a MSE loss ([CNN-MSE loss](https://github.com/njujinchun/dcedn-gcs/tree/master/CNN-MSE%20loss)) solely is also provided for comparison.
 ![alt text](https://github.com/njujinchun/dcedn-gcs/blob/master/images/Sg_binarized.png)
 Left: Discontinuous saturation field. Right: The corrresponding binarized image.
 
