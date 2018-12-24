@@ -32,7 +32,7 @@ Some basic Git commands are:
 python3 train_time.py
 ```
 # Citation
-If you find this repo useful for your research, please consider to cite:
+See [Mo et al. (2018)](https://arxiv.org/abs/1807.00882) for more information. If you find this repo useful for your research, please consider to cite:
 ```
 @ARTICLE{2018arXiv180700882M,
        author = {{Mo}, Shaoxing and {Zhu}, Yinhao and {Zabaras}, Nicholas and {Shi},
@@ -56,3 +56,6 @@ or:
 ```
 Mo, S., Zhu, Y., Zabaras, N., Shi, X., & Wu, J. (2018). Deep convolutional encoder-decoder networks for uncertainty quantification of dynamic multiphase flow in heterogeneous media. arXiv preprint arXiv:1807.00882.
 ```
+
+# Questions
+Contact Shaoxing Mo (smo@smail.nju.edu.cn) or Nicholas Zabaras (nzabaras@gmail.com) with questions or comments.
