@@ -12,3 +12,6 @@ The first column is the forward model predictions for the pressure (left) and di
 To improve the approximation accuracy for the irregular discontinuous saturation front, we binarize (0 or 1) the saturation field and the resulting image is added as an additional output channel to the network. An binary cross entropy (BCE) loss is used for the the two-class segmentation task.
 ![alt text](https://github.com/njujinchun/dcedn-gcs/blob/master/images/Sg_binarized.png)
 Left: Discontinuous saturation field. Right: The corrresponding binarized image.
+
+# Dependencies
+Items.serial(a,b,c)
