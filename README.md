@@ -20,8 +20,8 @@ Left: Discontinuous saturation field. Right: The corrresponding binarized image.
 * matplotlib
 * seaborn
 
-# Datasets
-The datasets used have been uploaded to Google Drive and can be downloaded using this link [https://drive.google.com/drive/folders/1keg9HwP3bs9JUCyqYflKNwIHwep2CD6r?usp=sharing](https://drive.google.com/drive/folders/1keg9HwP3bs9JUCyqYflKNwIHwep2CD6r?usp=sharing)
+# Datasets, Pretrained Model, and Forward Model Input Files
+The datasets used, pretrained models, input files for the forward model, and needed scripts have been uploaded to Google Drive and can be downloaded using this link [https://drive.google.com/drive/folders/1keg9HwP3bs9JUCyqYflKNwIHwep2CD6r?usp=sharing](https://drive.google.com/drive/folders/1keg9HwP3bs9JUCyqYflKNwIHwep2CD6r?usp=sharing)
 
 
 
