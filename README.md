@@ -14,4 +14,5 @@ To improve the approximation accuracy for the irregular discontinuous saturation
 Left: Discontinuous saturation field. Right: The corrresponding binarized image.
 
 # Dependencies
-Items.serial(a,b,c)
+* Item 1
+* Item 2
