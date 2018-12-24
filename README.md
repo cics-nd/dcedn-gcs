@@ -35,7 +35,6 @@ Illustration of the repo structure. The training data are obtained by reorganizi
 The pretrained models of networks [with the MSE loss](https://drive.google.com/file/d/1VtcpywvbUzTEXr1IU7GZtewXi1UWCuz2/view?usp=sharing) and [with the MSE-BCE loss](https://drive.google.com/open?id=1-CPrGxw6fnIeXFRr1sHhbnOZffGoyWT7) are available on Google Drive. One can plot the images provided using the script "post_usePretrainedModel.py".
 
 # Network Training
-Some basic Git commands are:
 ```
 python3 train_time.py
 ```
