@@ -3,7 +3,7 @@
 
 Shaoxing Mo, [Yinhaozhu](https://scholar.google.com/citations?user=SZmaVZMAAAAJ&hl=en&oi=sra), [Nicholas Zabaras](https://www.zabaras.com/), [Xiaoqing Shi](https://scholar.google.com/citations?user=MLKqgKoAAAAJ&hl=en&oi=sra), Jichun Wu
 
-PyTorch implementation of deep convolutional nueral networks for dynamical multi-phase flow models with discontinuous outputs and subsequent uncertainty quantification. We treat time as an input to network to predict the time-dependent outputs of the dynamic system.
+PyTorch implementation of deep convolutional nueral networks for dynamical multi-phase flow models with discontinuous outputs and for subsequent uncertainty quantification. We treat time as an input to network to predict the time-dependent outputs of the dynamic system.
 
 ![alt text](https://github.com/njujinchun/dcedn-gcs/blob/master/images/N_1600_output_5_ls50_var1.png)
 The first column is the forward model predictions for the pressure (left) and discontinuous saturation (right) fields at t=100, 150, and 200 days. The second and third columns are the network predictions and predicted errors, respectively.
