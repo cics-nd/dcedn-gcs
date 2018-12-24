@@ -1,4 +1,4 @@
-## Deep Convolutional Dncoder-Decoder Networks for Dynamical Multi-Phase Flow Models
+## Deep Convolutional Encoder-Decoder Networks for Dynamical Multi-Phase Flow Models
 [Deep Convolutional Encoder-Decoder Networks for Uncertainty Quantification of Dynamic Multiphase Flow in Heterogeneous Media](https://arxiv.org/abs/1807.00882)
 
 Shaoxing Mo, [Yinhaozhu](https://scholar.google.com/citations?user=SZmaVZMAAAAJ&hl=en&oi=sra), [Nicholas Zabaras](https://www.zabaras.com/), [Xiaoqing Shi](https://scholar.google.com/citations?user=MLKqgKoAAAAJ&hl=en&oi=sra), Jichun Wu
