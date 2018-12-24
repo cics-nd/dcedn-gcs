@@ -27,6 +27,10 @@ The network is fully convolutional without any fully-connnected layers and is an
 # Datasets, Pretrained Model, and Forward Model Input Files
 The datasets used, pretrained models, input files for the forward model, and needed scripts have been uploaded to Google Drive and can be downloaded using this link [https://drive.google.com/drive/folders/1keg9HwP3bs9JUCyqYflKNwIHwep2CD6r?usp=sharing](https://drive.google.com/drive/folders/1keg9HwP3bs9JUCyqYflKNwIHwep2CD6r?usp=sharing)
 
+# Repo Structure
+![alt](https://github.com/njujinchun/dcedn-gcs/blob/master/images/Repo-structure.png)
+Illustration of the repo structure. The training data are obtained by reorganizing the original data (see Section 3.3 in [Mo et al. (2018)](https://arxiv.org/abs/1807.00882)) to characterize the system dynamics.
+
 # Start with a Pre-trained Model
 The pretrained models of networks [with the MSE loss](https://drive.google.com/file/d/1VtcpywvbUzTEXr1IU7GZtewXi1UWCuz2/view?usp=sharing) and [with the MSE-BCE loss](https://drive.google.com/open?id=1-CPrGxw6fnIeXFRr1sHhbnOZffGoyWT7) are available on Google Drive. One can plot the images provided using the script "post_usePretrainedModel.py".
 
