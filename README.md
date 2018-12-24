@@ -15,7 +15,7 @@ Left: Discontinuous saturation field. Right: The corrresponding binarized image.
 
 # Network Architecture
 ![alt](https://github.com/njujinchun/dcedn-gcs/blob/master/images/DCEDN.png)
-The network is fully convolutional and an alternation of dense blocks and transition (encoding/decoding) layers.
+The network is fully convolutional without any fully-connnected layers and is an alternation of dense blocks and transition (encoding/decoding) layers.
 
 # Dependencies
 * python 3
