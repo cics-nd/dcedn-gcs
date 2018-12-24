@@ -5,4 +5,5 @@ Shaoxing Mo, [Yinhaozhu](https://scholar.google.com/citations?user=SZmaVZMAAAAJ&
 
 PyTorch implementation of deep convolutional nueral networks for dynamical multi-phase flow models with discontinuous outputs and subsequent uncertainty quantification.
 
-[The first column is the forward model predictions for the pressure (left) and saturation (right) fields at t=100, 150, and 200 days. The second and third columns are the network predictions and predicted errors, respectively.](https://github.com/njujinchun/dcedn-gcs/blob/master/images/N_1600_output_5_ls50_var1.png)
+![alt text](https://github.com/njujinchun/dcedn-gcs/blob/master/images/N_1600_output_5_ls50_var1.png)
+The first column is the forward model predictions for the pressure (left) and discontinuous saturation (right) fields at t=100, 150, and 200 days. The second and third columns are the network predictions and predicted errors, respectively.
