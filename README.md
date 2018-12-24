@@ -7,3 +7,8 @@ PyTorch implementation of deep convolutional nueral networks for dynamical multi
 
 ![alt text](https://github.com/njujinchun/dcedn-gcs/blob/master/images/N_1600_output_5_ls50_var1.png)
 The first column is the forward model predictions for the pressure (left) and discontinuous saturation (right) fields at t=100, 150, and 200 days. The second and third columns are the network predictions and predicted errors, respectively.
+
+
+To improve the approximation accuracy for the irregular discontinuous saturation front, we binarize (0 or 1) the saturation field and the resulting image is added as an additional output channel to the network. An binary cross entropy (BCE) loss is used for the the two-class segmentation task.
+![alt text](https://github.com/njujinchun/dcedn-gcs/blob/master/images/Sg_binarized.png)
+Left: Discontinuous saturation field. Right: The corrresponding binarized image.
