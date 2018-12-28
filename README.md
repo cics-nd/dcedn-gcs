@@ -29,7 +29,7 @@ The datasets used, pretrained models, input files for the forward model, and nee
 
 # Repo Structure
 ![alt](https://github.com/njujinchun/dcedn-gcs/blob/master/images/Repo-structure.png)
-Illustration of the repo structure. The training data are obtained by reorganizing the original data (see Section 3.3 in [Mo et al. (2018)](https://arxiv.org/abs/1807.00882)) to characterize the system dynamics.
+Illustration of the repo structure. The training data are obtained by reorganizing the original data (see Section 3.3 in [Mo et al. (2018)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018WR023528)) to characterize the system dynamics.
 
 # Start with a Pre-trained Model
 The pretrained models of networks [with the MSE loss](https://drive.google.com/file/d/1VtcpywvbUzTEXr1IU7GZtewXi1UWCuz2/view?usp=sharing) and [with the MSE-BCE loss](https://drive.google.com/open?id=1-CPrGxw6fnIeXFRr1sHhbnOZffGoyWT7) are available on Google Drive. One can plot the images provided using the script "post_usePretrainedModel.py".
@@ -56,7 +56,9 @@ eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2018WR023528},
 ```
 or:
 ```
-Mo, S., Y. Zhu, N.J Zabaras, X. Shi, and J., Wu. (2018), Deep convolutional encoder‐decoder networks for uncertainty quantification of dynamic multiphase flow in heterogeneous media, Water Resources Research, https://doi.org/10.1029/2018WR023528
+Mo, S., Y. Zhu, N.J Zabaras, X. Shi, and J., Wu. (2018), Deep convolutional encoder‐decoder networks for 
+uncertainty quantification of dynamic multiphase flow in heterogeneous media, Water Resources Research, 
+https://doi.org/10.1029/2018WR023528
 ```
 Related article: [Zhu, Y., & Zabaras, N. (2018). Bayesian deep convolutional encoder–decoder networks for surrogate modeling and uncertainty quantification. J. Comput. Phys., 366, 415-447.](https://www.sciencedirect.com/science/article/pii/S0021999118302341)
 
