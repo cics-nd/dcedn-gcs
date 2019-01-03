@@ -1,7 +1,7 @@
 ## Deep Convolutional Encoder-Decoder Networks for Dynamical Multi-Phase Flow Models
 [Deep Convolutional Encoder-Decoder Networks for Uncertainty Quantification of Dynamic Multiphase Flow in Heterogeneous Media](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018WR023528)
 
-Shaoxing Mo, [Yinhaozhu](https://scholar.google.com/citations?user=SZmaVZMAAAAJ&hl=en&oi=sra), [Nicholas Zabaras](https://www.zabaras.com/), [Xiaoqing Shi](https://scholar.google.com/citations?user=MLKqgKoAAAAJ&hl=en&oi=sra), Jichun Wu
+[Shaoxing Mo](https://scholar.google.com/citations?hl=en&user=G6ac1xUAAAAJ&view_op=list_works&gmla=AJsN-F4ses_YhFsF-w2sFZLhacR7vrVyN1272g_B7XQyGbYsvy_6ReJpe4ChndNy_cFQ7UqXCSi82UiLjMB2dKyqSj8x5DaPRg), [Yinhaozhu](https://scholar.google.com/citations?user=SZmaVZMAAAAJ&hl=en&oi=sra), [Nicholas Zabaras](https://www.zabaras.com/), [Xiaoqing Shi](https://scholar.google.com/citations?user=MLKqgKoAAAAJ&hl=en&oi=sra), Jichun Wu
 
 PyTorch implementation of deep convolutional nueral networks for dynamical multi-phase flow models with discontinuous outputs and for subsequent uncertainty quantification. We treat time as an input to network to predict the time-dependent outputs of the dynamic system.
 
